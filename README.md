@@ -1,12 +1,17 @@
-# Mobile_Prog
+# Pemrograman Mobile
 
-# Command utama upload progress
-git add .
-git commit -m "pesan anda"
-git push
+# Nama : Pascalis Dewangga Sandi Laksono
+# Kelas: TI-2D
+# NO   : 23
+###################################################################################
 
-# Command bila conflict
-git merge
+>Command utama upload progress
+- git add .
+- git commit -m "pesan anda"
+- git push
 
-# pindah branch
-git checkout
+>Command bila conflict
+- git merge
+
+>pindah branch
+- git checkout
